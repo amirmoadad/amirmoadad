@@ -11,7 +11,6 @@ I design and ship production AI systems, automation, and full-stack software: fr
 ### What I build
 
 | | |
-|---|---|
 | **Real-time AI** | Voice/video AI agents and live simulations on LiveKit, with LLM behavioral feedback loops |
 | **Agentic automation** | Multi-agent LLM pipelines and self-hosted n8n workflows wired into the tools a business already runs |
 | **Full-stack products** | Multi-tenant SaaS, storefronts, and client portals, from data model to deployment |
